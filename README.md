@@ -1,6 +1,8 @@
-## Hi there 👋, I'm a data analyst with an interest in machine learning!
+## Hi there 👋, I'm a data analyst with experience in machine learning!
 
-Welcome to my GitHub portfolio, where I showcase my data science projects. As a data analyst, I have experience in data manipulation and analysis using SQL. Recently, I completed a bootcamp on data science where I learned the basics of machine learning using Python's popular machine learning library scikit-learn. I also learned Python libraries like pandas, matplotlib, seaborn, and numpy.
+Welcome to my GitHub portfolio, where I showcase my data science projects. As a data analyst, I have experience in data manipulation and analysis using SQL and Python's Pandas library. I also completed a bootcamp on data science where I learned the basics of machine learning using Python's popular machine learning library scikit-learn and started applying my skills at work. 
+
+I have recently completed a project to predict GP shift cancellations using LightGBM.
 
 During the bootcamp, I focused on supervised learning models such as regression and decision trees, as well as unsupervised learning methods such as clustering and PCA. I am eager to continue expanding my knowledge of machine learning and other data science topics.
 
